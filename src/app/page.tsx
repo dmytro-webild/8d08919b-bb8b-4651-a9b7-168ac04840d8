@@ -65,7 +65,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/side-view-iron-teapot-with-glass-tea-potted-plant-table_141793-13004.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/side-view-iron-teapot-with-glass-tea-potted-plant-table_141793-13004.jpg?_wi=1"
       imageAlt="BB Restaurant & Cafe inviting atmosphere"
       mediaAnimation="blur-reveal"
       avatars={[
@@ -140,7 +140,7 @@ export default function LandingPage() {
             "Fresh",
             "Organic",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/korean-bibimbap-rice-bowl-with-fried-egg-vegetables_84443-85747.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/korean-bibimbap-rice-bowl-with-fried-egg-vegetables_84443-85747.jpg?_wi=1",
         },
         {
           id: "f2",
@@ -149,7 +149,7 @@ export default function LandingPage() {
             "Roast",
             "Aromatic",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-hands-preparing-drink-with-milk_23-2148865605.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-hands-preparing-drink-with-milk_23-2148865605.jpg?_wi=1",
         },
         {
           id: "f3",
@@ -158,7 +158,7 @@ export default function LandingPage() {
             "Baked",
             "Sourdough",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/croissants-with-cup-tea-pan-with-towel-wooden-table_176474-8246.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/croissants-with-cup-tea-pan-with-towel-wooden-table_176474-8246.jpg?_wi=1",
         },
       ]}
       title="Our Signature Specialties"
@@ -273,7 +273,7 @@ export default function LandingPage() {
           quote: "The absolute best brunch in the city!",
           tag: "Brunch",
           avatarSrc: "http://img.b2bpic.net/free-photo/happy-couple-talking-each-other-lunch-time-restaurant-focus-is-woman-eating-sandwich_637285-1962.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-iron-teapot-with-glass-tea-potted-plant-table_141793-13004.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-iron-teapot-with-glass-tea-potted-plant-table_141793-13004.jpg?_wi=2",
           imageAlt: "happy customer dining restaurant",
         },
         {
@@ -295,7 +295,7 @@ export default function LandingPage() {
           quote: "Perfect atmosphere for my morning coffee.",
           tag: "Cafe",
           avatarSrc: "http://img.b2bpic.net/free-photo/friends-eating-pizza-side-view_23-2149872410.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/korean-bibimbap-rice-bowl-with-fried-egg-vegetables_84443-85747.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/korean-bibimbap-rice-bowl-with-fried-egg-vegetables_84443-85747.jpg?_wi=2",
           imageAlt: "happy customer dining restaurant",
         },
         {
@@ -306,7 +306,7 @@ export default function LandingPage() {
           quote: "The artisan roasts are consistently perfect.",
           tag: "Coffee",
           avatarSrc: "http://img.b2bpic.net/free-photo/adults-enjoying-mexican-food_23-2149663852.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-hands-preparing-drink-with-milk_23-2148865605.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-hands-preparing-drink-with-milk_23-2148865605.jpg?_wi=2",
           imageAlt: "happy customer dining restaurant",
         },
         {
@@ -317,7 +317,7 @@ export default function LandingPage() {
           quote: "I always leave with a smile and a full belly.",
           tag: "Bakery",
           avatarSrc: "http://img.b2bpic.net/free-photo/cheerful-fashionable-woman-wears-sunglasses-white-sweater-red-headband-listens-audio-her-own-playlist-enjoys-leisure-time-coffee-shop-pretty-woman-entertain-herself-with-electonic-device_273609-2298.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/croissants-with-cup-tea-pan-with-towel-wooden-table_176474-8246.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/croissants-with-cup-tea-pan-with-towel-wooden-table_176474-8246.jpg?_wi=2",
           imageAlt: "happy customer dining restaurant",
         },
       ]}
