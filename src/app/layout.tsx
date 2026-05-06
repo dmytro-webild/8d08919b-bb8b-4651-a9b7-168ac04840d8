@@ -7,6 +7,7 @@ import { ServiceWrapper } from "@/components/ServiceWrapper";
 import Tag from "@/tag/Tag";
 import { getVisualEditScript } from "@/utils/visual-edit-script";
 import { DM_Sans } from "next/font/google";
+import { Lato } from "next/font/google";
 
 
 
@@ -21,9 +22,11 @@ export const metadata: Metadata = {
   },
 };
 
-const dmSans = DM_Sans({
-  variable: "--font-dm-sans",
+
+const lato = Lato({
+  variable: "--font-lato",
   subsets: ["latin"],
+  weight: ["100", "300", "400", "700", "900"],
 });
 
 export default function RootLayout({
@@ -34,7 +37,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <ServiceWrapper>
-        <body className={`${dmSans.variable} antialiased`}>
+        <body className={`${lato.variable} antialiased`}>
           <Tag />
           {children}
           <script
